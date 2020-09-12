@@ -60,5 +60,5 @@ http://hotcup.indtv.online/hotstar/StarSportsSelect1.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarSportsSelect2.mpd
 #EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Telegram @arvmobiles",Star Sports Select 2
 http://hotcup.indtv.online/hotstar/StarSportsSelect2.mpd|user-agent="KAIOS"
-#EXTINF:0,Sony Six HD
+#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Telegram @arvmobiles",Sony Six HD
 https://raw.githubusercontent.com/Kapc779/sixhd/master/jiotv.m3u8
