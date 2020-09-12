@@ -7,7 +7,7 @@ https://archive.org/serve/it-mobile-tg/ARVMOBILESTG.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Star_Sports_HD1.mpd
 #EXTINF:-1 tvg-id="1106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="JioTV+  (TiviMate)",Star Sports HD1
-https://raw.githubusercontent.com/Kapc779/star1eng/master/1.mpd|user-agent="KAIOS"
+http://drm.indtv.online/jiotvplus/Star_Sports_HD1.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Star_Sports_HD2.mpd
 #EXTINF:-1 tvg-id="1109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="JioTV+  (TiviMate)",Star Sports HD2
