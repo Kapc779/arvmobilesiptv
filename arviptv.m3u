@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification",Telegram
-https://archive.org/serve/it-mobile-tg/ARVMOBILESTG.mp4
+https://archive.org/download/it-mobile-tg/ARVMOBILESTG.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification", @arvmobiles
-https://archive.org/serve/it-mobile-tg/ARVMOBILESTG.mp4
+https://archive.org/download/it-mobile-tg/ARVMOBILESTG.ia.mp4
 #EXTINF:-1 group-title="",
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Star_Sports_HD1.mpd
